@@ -18,3 +18,13 @@ Technologies:
 React, Python backend, REST APIs, MongoDB.
 
 Source code private.
+
+
+## Engineering Approach
+
+I actively explore AI-assisted development workflows using tools such as Claude Code and modern LLM systems to accelerate:
+
+- debugging and incident investigation
+- architectural exploration
+- automated analysis of large codebases
+- developer productivity tooling
