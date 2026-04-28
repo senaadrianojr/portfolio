@@ -35,7 +35,7 @@ Developer productivity tools and system automation.
 ## Contact
 
 LinkedIn  
-https://linkedin.com/in/adriano-sena
+https://linkedin.com/in/adriano-sena-santana-jr
 
 ---
 
